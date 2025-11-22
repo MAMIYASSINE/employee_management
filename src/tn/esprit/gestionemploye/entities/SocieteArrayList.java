@@ -3,8 +3,8 @@ package tn.esprit.gestionemploye.entities;
 import tn.esprit.gestionemploye.comparator.EmployeDepartementComparator;
 import tn.esprit.gestionemploye.comparator.EmployeGradeComparator;
 import tn.esprit.gestionemploye.comparator.EmployeNomComparator;
-import tn.esprit.gestionemploye.interfaces.IGestion;
-import tn.esprit.gestionemploye.interfaces.IRechercheAvancee;
+import tn.esprit.gestionemploye.services.IGestion;
+import tn.esprit.gestionemploye.services.IRechercheAvancee;
 
 import java.util.ArrayList;
 import java.util.Collections;
